@@ -101,8 +101,8 @@ export default function IntroducingMyself() {
             <div className="mt-4">
               <h3 className="text-lg font-semibold mb-2 text-[#50C878]">Certifications & Standards</h3>
               <ul className="list-disc list-inside mb-4">
-                <li><span className="font-medium">ISO 27001:</span> Information Security Management</li>
-                <li><span className="font-medium">ISO 9001:</span> Quality Management Systems</li>
+                <li><span className="font-medium">ISO 27001:</span> Information Security Management Knowledge</li>
+                <li><span className="font-medium">ISO 9001:</span> Quality Management Systems Knowledge</li>
                 <li><span className="font-medium">Machine Learning with Python:</span> Certified</li>
                 <li><span className="font-medium">Intro to Cybersecurity:</span> CISCO Certified</li>
               </ul>
