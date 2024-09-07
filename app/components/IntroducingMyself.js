@@ -131,8 +131,8 @@ export default function IntroducingMyself() {
         </div>
         <div className="mt-6 text-center">
           <p className="text-gray-300 italic">
-          "Practice makes you better, Artificial Intelligence helps you to be more efficient."
-</p>
+            &ldquo;Practice makes you better, Artificial Intelligence helps you to be more efficient.&rdquo;
+          </p>
         </div>
       </div>
     </div>
