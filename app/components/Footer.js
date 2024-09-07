@@ -9,7 +9,7 @@ const Footer = () => {
       <div className="container mx-auto px-4 relative z-10">
         <div className="grid grid-cols-1 md:grid-cols-3 gap-8 text-center max-w-4xl mx-auto">
           <div className="flex flex-col items-center">
-            <h3 className="text-xl font-bold mb-4 text-[#50C878]">Fandresena's Portfolio</h3>
+            <h3 className="text-xl font-bold mb-4 text-[#50C878]">Fandresena&apos;s Portfolio</h3>
             <div className="flex space-x-4">
               <a href="https://github.com/FandresenaR" className="hover:text-gray-300" target="_blank" rel="noopener noreferrer">
                 <svg className="w-6 h-6 fill-current" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg">
