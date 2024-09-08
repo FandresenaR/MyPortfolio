@@ -8,9 +8,9 @@ const PREFERRED_TECHNOLOGIES = [
   { name: 'TensorFlow', category: 'Python Ecosystem', icon: '🧠' },
   { name: 'PyTorch', category: 'Python Ecosystem', icon: '🔥' },
   { name: 'Django', category: 'Python Ecosystem', icon: '🌐' },
-  { name: 'React', category: 'React Ecosystem', icon: '⚛️' },
-  { name: 'Next.js', category: 'React Ecosystem', icon: '▲' },
-  { name: 'Node.js', category: 'Other', icon: '🟢' },
+  { name: 'React', category: 'JS Ecosystem', icon: '⚛️' },
+  { name: 'Next.js', category: 'JS Ecosystem', icon: '▲' },
+  { name: 'Node.js', category: 'JS Ecosystem', icon: '🟢' },
   { name: 'Metasploit', category: 'Security', icon: '🛡️' },
   { name: 'Nmap', category: 'Security', icon: '🔍' },
   { name: 'Wireshark', category: 'Security', icon: '🦈' }
