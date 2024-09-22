@@ -131,7 +131,7 @@ const Hero = () => {
       <canvas ref={canvasRef} className="absolute inset-0 z-10" />
       <div className="relative z-20 flex flex-col h-full items-center justify-center px-4 sm:px-6 lg:px-8">
         <h1 className={`${orbitron.className} text-2xl sm:text-3xl md:text-4xl lg:text-5xl font-bold text-white text-center mb-6`}>
-          Let's think AI & Security !
+          Let&apos;s think AI & Security !
         </h1>
         <Link 
           href="/portfolio" 
