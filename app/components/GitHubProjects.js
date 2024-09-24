@@ -4,7 +4,7 @@ import { useState, useEffect } from 'react';
 import Image from 'next/image';
 
 // Simple message components
-const LoadingMessage = () => <div className="text-center">Loading...</div>;
+const LoadingMessage = () => <div className="text-center mb-10">Loading...</div>;
 const ErrorMessage = ({ message }) => <div className="text-center text-red-500">Error: {message}</div>;
 
 // Card-style Skeleton Loader Component
