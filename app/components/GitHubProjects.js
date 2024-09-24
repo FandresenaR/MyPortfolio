@@ -29,8 +29,8 @@ const SkeletonLoader = () => (
         <div className="h-5 bg-gray-600 rounded w-1/4"></div>
         <div className="h-5 bg-gray-600 rounded w-1/4"></div>
       </div>
-    </div className="mb-10">
-    <div className="bg-gray-700 rounded-lg p-4 animate-pulse">
+    </div>
+    <div className="bg-gray-700 rounded-lg p-4 animate-pulse mb-10">
       <div className="h-8 bg-gray-600 rounded w-3/4 mb-3"></div>
       <div className="h-5 bg-gray-600 rounded w-full mb-2"></div>
       <div className="h-5 bg-gray-600 rounded w-5/6 mb-2"></div>
