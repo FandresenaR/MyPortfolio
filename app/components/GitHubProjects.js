@@ -29,7 +29,7 @@ const SkeletonLoader = () => (
         <div className="h-5 bg-gray-600 rounded w-1/4"></div>
         <div className="h-5 bg-gray-600 rounded w-1/4"></div>
       </div>
-    </div>
+    </div className="mb-10">
     <div className="bg-gray-700 rounded-lg p-4 animate-pulse">
       <div className="h-8 bg-gray-600 rounded w-3/4 mb-3"></div>
       <div className="h-5 bg-gray-600 rounded w-full mb-2"></div>
@@ -104,7 +104,7 @@ export default function GitHubProjects() {
           </iframe>
         </div>
         <p className="text-gray-300 mt-2 text-sm sm:text-base mb-10">
-          Facial recognition made with Python Deepface to detect facial expression detector with any webcam or device
+          Facial recognition made with Python Deepface to detect facial expression and can be used with a webcam
         </p>
         
         <div className="mb-6"> {/* Added margin for consistent spacing */}
