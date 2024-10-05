@@ -114,6 +114,14 @@ export default function GitHubProjects() {
         <p className="text-gray-300 mt-2 text-sm sm:text-base">
           AILandClean is a project focused on utilizing AI for environmental sustainability.
         </p>
+
+        <div className="mb-6"> {/* Added margin for consistent spacing */}
+          <a href="https://tetika.streamlit.app/" target="_blank" rel="noopener noreferrer" className="text-lg sm:text-xl font-semibold text-emerald-300">AILandClean</a>
+        </div>
+        <Image src="/images/Tetika.png" alt="Tetika AI" width={1000} height={500} className="w-full h-auto mb-4 object-cover" /> {/* Ensure responsive height */}
+        <p className="text-gray-300 mt-2 text-sm sm:text-base">
+          Tetika AI is a Coding Assistant based on free LLM available until today. Most of them are multi-modal
+        </p>
       </div>
 
 
